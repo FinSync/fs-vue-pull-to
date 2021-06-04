@@ -1,19 +1,8 @@
 # Vue-Pull-To
 A pull-down refresh and pull-up load more and infinite scroll component for Vue.js.
 
-[zh-CN中文文档](https://github.com/stackjie/vue-pull-to/tree/master/README.zh-CN.md)
-
-[![Build Status](https://travis-ci.org/stackjie/vue-pull-to.svg?branch=master)](https://travis-ci.org/stackjie/vue-pull-to)
-[![Coverage Status](https://coveralls.io/repos/github/stackjie/vue-pull-to/badge.svg?branch=master)](https://coveralls.io/github/stackjie/vue-pull-to?branch=master)
-[![GitHub issues](https://img.shields.io/github/issues/stackjie/vue-pull-to.svg)](https://github.com/stackjie/vue-pull-to/issues)
-[![GitHub stars](https://img.shields.io/github/stars/stackjie/vue-pull-to.svg)](https://github.com/stackjie/vue-pull-to/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/stackjie/vue-pull-to/master/LICENSE)
 [![npm](https://img.shields.io/npm/v/vue-pull-to.svg)](https://www.npmjs.com/package/vue-pull-to) 
-
-## Live Examples
-<img src="http://ot6wx4ryg.bkt.clouddn.com/vuepullto_qrcode.png" style="display: block;" alt="qrcode">
-
-[examples](http://www.vuepullto.top)
 
 ## Installation
 ``` sh
