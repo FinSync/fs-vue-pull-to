@@ -1,6 +1,6 @@
 'use strict';
 
-var merge = require('webpack-merge');
+var {merge} = require('webpack-merge');
 var baseConfig = require('./base.config');
 var HtmlWebpackPlugin = require('html-webpack-plugin');
 var resolve = require('./');
