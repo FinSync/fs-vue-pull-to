@@ -4,11 +4,6 @@ A pull-down refresh and pull-up load more and infinite scroll component for Vue.
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/stackjie/vue-pull-to/master/LICENSE)
 [![npm](https://img.shields.io/npm/v/vue-pull-to.svg)](https://www.npmjs.com/package/vue-pull-to) 
 
-## Installation
-``` sh
- npm install vue-pull-to --save
-```
-
 ## Usage
 ``` vue
 <template>
